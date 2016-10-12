@@ -1,0 +1,3 @@
+char[] ch = new char[]{'1'}
+can't use ch.toString() 
+should use String.ValueOf(ch)
