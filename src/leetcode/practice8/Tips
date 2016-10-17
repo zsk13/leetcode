@@ -1,0 +1,3 @@
+Modify the method of Integer->public static int parseInt(String s, int radix) throws NumberFormatException
+when the result>MAX_VALUE 
+return MAXVALUE instead of throw a exception
