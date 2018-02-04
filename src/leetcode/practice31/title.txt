@@ -1,0 +1,9 @@
+31. Next Permutation
+
+将排列中的数字重新排列成字典序中的下一个更大的排列,如果是最大的,就返回最小的排列.
+
+Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.
+
+If such arrangement is not possible, it must rearrange it as the lowest possible order (ie, sorted in ascending order).
+
+The replacement must be in-place, do not allocate extra memory.
